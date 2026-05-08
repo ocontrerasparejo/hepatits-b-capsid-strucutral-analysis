@@ -49,3 +49,37 @@ The HBcAg protein is essential for viral replication, as it self-assembles into 
 ---
 
 ## Repository Structure
+
+```text
+.
+├── figures/          # Selected PyMOL and analysis figures
+├── report/           # Final project report
+├── presentation/     # Project presentation
+└── README.md
+```
+
+---
+
+## Example Figures
+
+### Capsid Dimer
+![Dimer](figures/dimer.png)
+
+### Hydrophobic Core
+![Hydrophobic Core](figures/hydrophobic_core.png)
+
+### Structural Superposition
+![Superposition](figures/superposition.png)
+
+---
+
+## Notes
+
+This repository contains selected analyses, figures, and documentation from a structural bioinformatics project focused on HBV capsid proteins. Intermediate outputs and raw files have been omitted for clarity.
+
+
+## Authors
+
+- Òscar Contreras Parejo
+- Alessandra Bonilla
+- Marc J. Torres
