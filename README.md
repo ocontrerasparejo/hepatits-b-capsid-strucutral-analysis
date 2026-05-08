@@ -68,8 +68,8 @@ The HBcAg protein is essential for viral replication, as it self-assembles into 
 ### Hydrophobic Core
 ![Hydrophobic Core](figures/hydrophobic_core.png)
 
-### Structural Superposition
-![Cysteine_Interaction](figures/cysteine_interaction.png.png)
+### Conserved Disulfide Bonds
+![Disulfide Bonds](figures/cysteine_interaction.png)
 
 ---
 
